@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhhlim
 - 👀 I’m interested in IoT automation
-- 🌱 I’m currently learning blockchain on edX, maintaining a collections site, and working for a company specializing in Data infrastucture and analytics.
+- 🌱 I’m currently learning blockchain on edX, maintaining a collections site, and working for a company specializing in Data infrastucture and analytics. I specialize in the automation of processes including BOM automation, proposal documentation, and drag-and-drop visualization using SVG images.
 - 💞️ I’m looking to collaborate on IoT products for home automation (saving on utility bills) and optimization of resource allocation and climate tech.
 - 📫 Feel free to contact me at limware@yahoo.com
