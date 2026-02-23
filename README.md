@@ -26,7 +26,7 @@ I specialize in process automation including:
 - Distribution center warehouse instruction automation
 
 I have worked extensively in the Configure Price Quote (CPQ) ecosystem using:
-Java, JavaScript, Node.js, Salesforce (Admin + Apex), Visualforce, Oracle, MSSQL, PostgreSQL, FPX, Callidus, Apttus, C/C++, and Python.
+Java, JavaScript, Node.js, Salesforce (Admin + Apex), Visualforce, Oracle, MSSQL, PostgreSQL, FPX, CallidusCloud, PROS, Conga, Apttus, C/C++, and Python.
 
 I collaborate cross-functionally with product, pricing, finance, supply chain, and engineering teams across the product lifecycle from general availability to EOL.
 
