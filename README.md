@@ -7,7 +7,7 @@ I am actively developing AI-driven full stack applications leveraging:
 - Python (FastAPI)
 - React / Next.js
 - OpenAI & LLM integrations
-- Vector databases (pgvector / Supabase)
+- Vector databases (pgvector / Pinecone)
 - PostgreSQL
 - Docker & modern cloud deployment
 
@@ -21,7 +21,7 @@ I am particularly interested in applying AI to:
 I specialize in process automation including:
 - BOM automation
 - Proposal documentation generation
-- Drag-and-drop SVG visualization systems
+- Drag-and-drop product visualization systems
 - Automated cabling logic for enterprise storage systems
 - Distribution center warehouse instruction automation
 
