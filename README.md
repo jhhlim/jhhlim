@@ -9,7 +9,7 @@ I am actively developing AI-driven full stack applications leveraging:
 - OpenAI & LLM integrations
 - Vector databases (pgvector / Pinecone)
 - PostgreSQL
-- Docker & modern cloud deployment
+- Google AI Studio
 
 I am particularly interested in applying AI to:
 - CPQ and sales automation
