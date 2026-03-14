@@ -46,3 +46,5 @@ I collaborate cross-functionally with product, pricing, finance, supply chain, a
 - Supply chain AI
 - Data infrastructure tools
 - Climate tech optimization systems
+
+See my portfolio at: https://enterprise-alchemy-folio.lovable.app
