@@ -2,6 +2,9 @@
 
 I’m an AI-focused Full Stack Engineer and IT professional with 10+ years of experience building automation systems across data infrastructure, CPQ platforms, and enterprise operations. My work bridges business logic, system architecture, and intelligent automation.
 
+I recently presented AI for Enterprise Systems you can check out this video here:
+https://www.youtube.com/watch?v=IIW3jB_Q73U&feature=youtu.be
+
 🧠 Current Focus
 I am actively developing AI-driven full stack applications leveraging:
 - Python (FastAPI)
