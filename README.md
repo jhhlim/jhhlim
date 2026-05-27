@@ -1,53 +1,27 @@
-👋 Hi, I’m @jhhlim
+# Hi, I'm Jason Lim (@jhhlim)
 
-I’m an AI-focused Full Stack Engineer and IT professional with 10+ years of experience building automation systems across data infrastructure, CPQ platforms, and enterprise operations. My work bridges business logic, system architecture, and intelligent automation.
+AI-focused **full stack engineer** with 10+ years building automation across data infrastructure, **CPQ**, and enterprise operations — bridging business logic, system architecture, and intelligent automation.
 
-I recently presented a learning share for AI for Enterprise Systems you can check out this video here:
-https://www.youtube.com/watch?v=IIW3jB_Q73U&feature=youtu.be
+🎬 **Talk:** [AI for Enterprise Systems](https://www.youtube.com/watch?v=IIW3jB_Q73U)  
+🌐 **Portfolio:** [enterprise-alchemy-folio.lovable.app](https://enterprise-alchemy-folio.lovable.app)
 
-🧠 Current Focus
-I am actively developing AI-driven full stack applications leveraging:
-- Python (FastAPI)
-- React / Next.js
-- OpenAI & LLM integrations
-- Vector databases (pgvector / Pinecone)
-- PostgreSQL
-- Google AI Studio
+## What I'm building now
 
-I am particularly interested in applying AI to:
-- CPQ and sales automation
-- Supply chain optimization
-- Intelligent document and workflow automation
-- Enterprise knowledge systems (RAG architecture)
+- **Stack:** Python (FastAPI), React/Next.js, PostgreSQL, pgvector/Pinecone, OpenAI & Google AI Studio, Cursor
+- **Focus:** RAG, enterprise knowledge systems, intelligent document & workflow automation
+- **Domains:** CPQ/sales automation, supply chain optimization, climate-tech systems
 
-🏗 Background
-I specialize in process automation including:
-- BOM automation
-- Proposal documentation generation
-- Drag-and-drop product visualization systems
-- Automated cabling logic for enterprise storage systems
-- Distribution center warehouse instruction automation
+## Background
 
-I have worked extensively in the Configure Price Quote (CPQ) ecosystem using:
-Java, JavaScript, Node.js, Salesforce (Admin + Apex), Visualforce, Oracle, MSSQL, PostgreSQL, FPX, CallidusCloud, PROS, Conga, Apttus, C/C++, and Python.
+Process automation across BOM generation, proposal docs, product visualization, cabling logic, and warehouse instruction systems.
 
-I collaborate cross-functionally with product, pricing, finance, supply chain, and engineering teams across the product lifecycle from general availability to EOL.
+**CPQ ecosystem:** Java, JavaScript, Node.js, Salesforce (Admin + Apex), Oracle, MSSQL, PostgreSQL, FPX, CallidusCloud, PROS, Conga, Apttus, and more — collaborating with product, pricing, finance, supply chain, and engineering from GA through EOL.
 
-🎓 Education
-- B.A. Economics – UC Berkeley
-- B.S. Computer Science – Oregon State University
+## Education
 
-🚀 Current Development Focus
-- AI application engineering
-- Retrieval-Augmented Generation (RAG) systems
-- SaaS architecture and scalable backend systems
-- Intelligent automation within enterprise platforms
+- B.A. Economics — UC Berkeley  
+- B.S. Computer Science — Oregon State University  
 
-💞️ Open to collaborate on:
-- AI for enterprise automation
-- CPQ modernization
-- Supply chain AI
-- Data infrastructure tools
-- Climate tech optimization systems
+## Open to collaborate on
 
-See my portfolio at: https://enterprise-alchemy-folio.lovable.app
+AI for enterprise automation · CPQ modernization · supply chain AI · data infrastructure · climate tech optimization
