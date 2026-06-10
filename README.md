@@ -1,8 +1,8 @@
 # Hi, I'm Jason Lim (@jhhlim)
 
-**AI agent engineer** and full-stack developer with 10+ years building enterprise configuration systems, CPQ platforms, and automation that has driven **$1B+ in annual revenue** with **20% year-over-year growth**. I bridge business logic, system architecture, and intelligent automation — from data center hardware quoting to multi-agent AI applications.
+**AI Development engineer** and full-stack developer with 10+ years building enterprise configuration systems, CPQ platforms, and automation that has driven **$1B+ in annual revenue** with **20% year-over-year growth**. I bridge business logic, system architecture, and intelligent automation — from data center hardware quoting to multi-agent AI applications.
 
-🎓 **In progress:** AI Agent Applications specialization — UCSC Extension  
+🎓 **In progress:** AI Engineering specialization — UCSC Extension  
 🎬 **Talk:** [AI for Enterprise Systems](https://www.youtube.com/watch?v=IIW3jB_Q73U)  
 🌐 **Portfolio:** [enterprise-alchemy-folio.lovable.app](https://enterprise-alchemy-folio.lovable.app)
 
@@ -18,7 +18,7 @@
 
 Configuration development and full-stack engineering across **JavaScript, Python, Java**, and enterprise platforms:
 
-- **CPQ & quoting:** Conga CPQ, FPX CPQ, appliance/subscription/SaaS configuration and quoting
+- **CPQ & quoting:** Conga CPQ, ServiceNow Logik.Ai, FPX CPQ, appliance/subscription/SaaS configuration and quoting
 - **CRM & ERP:** Salesforce (Admin + Apex), Oracle business databases, OCDB
 - **Databases:** PostgreSQL, Oracle, Microsoft SQL Server — schema design, reporting, and maintenance
 - **Domain:** Data center infrastructure — hardware, software, subscriptions, appliances; BOM generation, proposal docs, product visualization, cabling logic, warehouse instruction systems
