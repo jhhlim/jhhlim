@@ -1,27 +1,35 @@
 # Hi, I'm Jason Lim (@jhhlim)
 
-AI-focused **full stack engineer** with 10+ years building automation across data infrastructure, **CPQ**, and enterprise operations — bridging business logic, system architecture, and intelligent automation.
+**AI agent engineer** and full-stack developer with 10+ years building enterprise configuration systems, CPQ platforms, and automation that has driven **$1B+ in annual revenue** with **20% year-over-year growth**. I bridge business logic, system architecture, and intelligent automation — from data center hardware quoting to multi-agent AI applications.
 
+🎓 **In progress:** AI Agent Applications specialization — UCSC Extension  
 🎬 **Talk:** [AI for Enterprise Systems](https://www.youtube.com/watch?v=IIW3jB_Q73U)  
 🌐 **Portfolio:** [enterprise-alchemy-folio.lovable.app](https://enterprise-alchemy-folio.lovable.app)
 
 ## What I'm building now
 
-- **Stack:** Python (FastAPI), React/Next.js, PostgreSQL, pgvector/Pinecone, OpenAI & Google AI Studio, Cursor
-- **Focus:** RAG, enterprise knowledge systems, intelligent document & workflow automation
-- **Domains:** CPQ/sales automation, supply chain optimization, climate-tech systems
+- **Agent development:** Multi-agent systems, worker–critic patterns, supervisor orchestration
+- **Frameworks & tools:** Google ADK, ADK Web, Cursor AI, AI coding agents, agent frameworks (LangChain ecosystem)
+- **APIs & models:** Gemini API, Doubleword API (open-weight models), OpenAI, Claude
+- **Stack:** Python, JavaScript/Node.js, React/Next.js, FastAPI, PostgreSQL, pgvector
+- **Focus:** Practical agent applications — tool use, MCP integration, enterprise workflow automation
 
-## Background
+## Enterprise & full-stack background
 
-Process automation across BOM generation, proposal docs, product visualization, cabling logic, and warehouse instruction systems.
+Configuration development and full-stack engineering across **JavaScript, Python, Java**, and enterprise platforms:
 
-**CPQ ecosystem:** Java, JavaScript, Node.js, Salesforce (Admin + Apex), Oracle, MSSQL, PostgreSQL, FPX, CallidusCloud, PROS, Conga, Apttus, and more — collaborating with product, pricing, finance, supply chain, and engineering from GA through EOL.
+- **CPQ & quoting:** Conga CPQ, FPX CPQ, appliance/subscription/SaaS configuration and quoting
+- **CRM & ERP:** Salesforce (Admin + Apex), Oracle business databases, OCDB
+- **Databases:** PostgreSQL, Oracle, Microsoft SQL Server — schema design, reporting, and maintenance
+- **Domain:** Data center infrastructure — hardware, software, subscriptions, appliances; BOM generation, proposal docs, product visualization, cabling logic, warehouse instruction systems
+- **Impact:** Built tools and automation used by sales, pricing, finance, supply chain, and engineering from GA through EOL
 
 ## Education
 
-- B.A. Economics — UC Berkeley  
-- B.S. Computer Science — Oregon State University  
+- **In progress:** Developing AI Agent Applications — UCSC Extension
+- B.A. Economics — UC Berkeley
+- B.S. Computer Science — Oregon State University
 
 ## Open to collaborate on
 
-AI for enterprise automation · CPQ modernization · supply chain AI · data infrastructure · climate tech optimization
+Multi-agent AI systems · Google ADK · enterprise agent automation · CPQ modernization · AI-assisted configuration & quoting · data infrastructure
