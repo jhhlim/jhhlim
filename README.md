@@ -4,7 +4,7 @@
 
 🎓 **In progress:** AI Engineering specialization — UCSC Extension  
 🎬 **Talk:** [AI for Enterprise Systems](https://www.youtube.com/watch?v=IIW3jB_Q73U)  
-🌐 **Portfolio:** [[enterprise-alchemy-folio.lovable.app](https://enterprise-alchemy-folio.lovable.app)](https://jason-lim.lovable.app/)
+🌐 **Portfolio:** [jason-lim.lovable.app](https://jason-lim.lovable.app/)
 
 ## What I'm building now
 
